@@ -1,0 +1,17 @@
+{
+  "name": "highcharts",
+  "description": "PRIVATE copy of highchat licenced to Kronos Technologies",
+  "main": "highcharts.js",
+  "authors": [
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/kronostechnologies/highcharts",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
