@@ -1,0 +1,19 @@
+{
+  "name": "highcharts",
+  "version": "4.1.8",
+  "description": "PRIVATE copy of highchat licenced to Kronos Technologies",
+  "main": "highcharts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kronostechnologies/highcharts.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/kronostechnologies/highcharts/issues"
+  },
+  "homepage": "https://github.com/kronostechnologies/highcharts#readme"
+}
